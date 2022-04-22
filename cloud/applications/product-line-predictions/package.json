@@ -16,7 +16,7 @@
     "jquery": "3.0.0",
     "log4js": "^0.6.37",
     "morgan": "^1.10.0",
-    "nconf": "0.8.4",
+    "nconf": "0.11.4",
     "react": "0.14.8",
     "react-devtools": "^3.6.3",
     "react-dom": "0.14.8",
